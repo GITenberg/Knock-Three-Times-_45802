@@ -1,0 +1,38 @@
+_repo: Knock-Three-Times-_45802
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Tarrant, Margaret
+    alias: Tarrant, Margaret W.
+    birthdate: 1888
+    deathdate: 1959
+    gutenberg_agent_id: '43463'
+    url: http://www.gutenberg.org/2009/agents/43463
+covers:
+- cover_type: archival
+  image_path: 45802-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Webb, Marion St. John
+    aliases:
+    - Webb, Mrs. Sidney H.
+    - Adcock, Marion St. John
+    deathdate: 1930
+    gutenberg_agent_id: '43462'
+    url: http://www.gutenberg.org/2009/agents/43462
+description: ''
+gutenberg_issued: '2014-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fantasy fiction'
+title: Knock Three Times!
+url: http://www.gutenberg.org/ebooks/45802
